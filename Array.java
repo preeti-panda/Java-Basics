@@ -1,4 +1,4 @@
-class Array{
+class Arr{
     public static void main(String args[]){
         char[] a= new char[5];
         a[0]='a';
