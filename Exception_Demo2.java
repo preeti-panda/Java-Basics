@@ -11,5 +11,5 @@ class Exception_Demo2 {
         catch (ArithmeticException ai) {
     System.out.println("any number is not divisibl by zero");
  }
-}
+}    
 }
